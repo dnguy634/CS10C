@@ -1,1 +1,1 @@
-# CS10C
+#  CS10C, an introduction to data structures and algorithms course. Through my past labs and programs, I've demonstrated my ability to understand and implement various data structures as well as their interrelations. 
